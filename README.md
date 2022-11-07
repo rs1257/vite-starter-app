@@ -10,4 +10,4 @@ This is an example application using the following technologies:
 - Jest
 - Husky
 
-I have also setup absolute imports so we can use @/module rather then ../../..
+I have also setup absolute imports so we can use @/module rather than ../../..
